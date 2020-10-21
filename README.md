@@ -91,7 +91,7 @@ If you find any of this work useful, please cite our paper as follows:
 ```
 @InProceedings{taille2020sincere,
 author="Taill{\'e}, Bruno and Guigue, Vincent and Scoutheeten, Geoffrey and Gallinari, Patrick",
-title="Let's Stop Incorrect Comparisons in End-to-End Relation Extraction",
+title="Let's Stop Incorrect Comparisons in End-to-End Relation Extraction!",
 booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
 year="2020",
 publisher="Association for Computational Linguistics",
