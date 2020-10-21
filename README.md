@@ -46,7 +46,7 @@ It corresponds to the split released by [(Gupta 2016)](https://www.aclweb.org/an
 
 ##### 3) ACE05
 Due to licensing issues, we do not provide the ACE05 dataset.  
-The instructions and scripts to setup the dataset from (Miwa and Bansal 2016) are in the `ace_preprocessing/` folder.
+The instructions and scripts to setup the dataset from [(Miwa and Bansal 2016)](https://www.aclweb.org/anthology/P16-1105.pdf) (<https://github.com/tticoin/LSTM-ER>) are in the `ace_preprocessing/` folder.
 
 ### Training
 Although more configurations can be tested with this code, we focused on two ablations:
