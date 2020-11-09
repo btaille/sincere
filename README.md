@@ -89,13 +89,19 @@ However, despite careful manual seeding, they are not exactly reproducible accro
 ## Reference
 If you find any of this work useful, please cite our paper as follows:
 ```
-@InProceedings{taille2020sincere,
-author="Taill{\'e}, Bruno and Guigue, Vincent and Scoutheeten, Geoffrey and Gallinari, Patrick",
-title="Let's Stop Incorrect Comparisons in End-to-End Relation Extraction!",
-booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
-year="2020",
-publisher="Association for Computational Linguistics",
-url="https://arxiv.org/abs/2009.10684"
+@inproceedings{taille-etal-2020-lets,
+    title = "Let{'}s Stop Incorrect Comparisons in End-to-end Relation Extraction!",
+    author = "Taill{\'e}, Bruno  and
+      Guigue, Vincent  and
+      Scoutheeten, Geoffrey  and
+      Gallinari, Patrick",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.301",
+    pages = "3689--3701",
 }
 ```
 
